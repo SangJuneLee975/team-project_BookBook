@@ -21,6 +21,8 @@ Bookbook은 사용자의 취향에 맞는 책을 추천해주는 도서 추천 �
 - 관심 있는 도서에 대해 작성한 나의 리뷰를 한곳에서 모아볼 수 있습니다.
 
 ## 기술 스택
+
+### Front End
 [![AJAX](https://img.shields.io/badge/AJAX-323330?style=for-the-badge&logo=AJAX&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
@@ -30,6 +32,7 @@ Bookbook은 사용자의 취향에 맞는 책을 추천해주는 도서 추천 �
 [![DiceBear](https://img.shields.io/badge/DiceBear-563D7C?style=for-the-badge)](https://dicebear.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com/)
 
+### Back End
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/) 
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)](https://spring.io/) 
 [![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)](https://spring.io/projects/spring-security) 
@@ -38,6 +41,7 @@ Bookbook은 사용자의 취향에 맞는 책을 추천해주는 도서 추천 �
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white)](https://maven.apache.org/)
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)](https://httpd.apache.org/)
 
+### Search Engine
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/) 
 [![Kiwipiepy](https://img.shields.io/badge/Kiwipiepy-6DA1D2?style=for-the-badge)](https://pypi.org/project/kiwipiepy/)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=Scipy&logoColor=white)](https://scipy.org/)
@@ -46,4 +50,5 @@ Bookbook은 사용자의 취향에 맞는 책을 추천해주는 도서 추천 �
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
+### API
 [![Naver Cloud Platform](https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://www.ncloud.com/)
