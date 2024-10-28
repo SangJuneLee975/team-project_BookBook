@@ -45,47 +45,38 @@ Bookbook은 사용자의 취향에 맞는 책을 추천해주는 도서 추천 �
 
 ## 주요기능 🌟
 
-### 📖 도서 검색 및 추천 기능
+### 📖 도서 추천 사이트
 ![로그인 후 메인페이지처](https://github.com/user-attachments/assets/1752b7f5-e287-4429-8dac-c62ad9fef3c5)
 ![육아 검색페이지](https://github.com/user-attachments/assets/209bdb0a-2170-451b-a52a-7aebaad82586)
 - 키워드 검색: 사용자가 검색어를 입력하면 관련 도서가 검색 결과로 나타남. 검색어의 관련성을 분석하여 더 정확한 추천을 제공하며, 책의 핵심 정보를 카드 형식으로 간단하게 확인할 수 있음
 
- ![검색 후 추천책 리스트](https://github.com/user-attachments/assets/379adde4-51c1-4124-ade4-4eae09629b25)
-- 추천 시스템: 키워드 검색어를 기반으로 관련성이 높은 도서를 추천하여 사용자가 쉽게 관심 도서를 발견할 수 있도록 지원함
+ 
 
- ![베스트셀러 페이지](https://github.com/user-attachments/assets/ac9d6428-12e0-4f56-92ac-81549bcdb469)
-
-- 베스트셀러 리스트: 카테고리별 TOP10 베스트셀러 목록을 통해 대중의 선호도가 높은 책을 쉽게 파악할 수 있음
-
-
-### 📚 도서 상세 페이지
-![상세페이지](https://github.com/user-attachments/assets/b097973f-b709-48bb-a571-41da9df3ea65)
-
-
-- 상세 정보: 책을 클릭하면 해당 도서의 상세 페이지로 이동하여, 책에 대한 설명, 관련 추천 도서 목록을 확인할 수 있음
-
-
-![상세페이지 추천도서](https://github.com/user-attachments/assets/04209543-4709-4628-92dc-34aa2c53c081)
-- 추천 도서: 현재 책과 관련된 추천 도서를 함께 제시함
-
-  ![상세페이지 이 책을 좋아하는 사람](https://github.com/user-attachments/assets/47e648f4-0b65-4ed4-9d2d-925f0e0bf0e8)
-- 독서 커뮤니티: 해당 책을 좋아하는 사람들이 확인되며, 사용자 리뷰와 댓글 기능을 통해 책에 대한 감상을 공유할 수 있음
-
-## 💬 서브 기능
+## 💬 담당한 역할
 
 ### 로그인 및 회원가입
 ![로그인 2](https://github.com/user-attachments/assets/e0d69d65-b871-4431-bd66-2a5fcdcad2a3)
+![회원가입](https://github.com/user-attachments/assets/ba5a1889-8b19-48c9-91ec-43e2763665af)
 - 일반 아이디 및 네이버 아이디를 통한 로그인이 가능
 - 사용자는 사이트에서 직접 회원가입을 통해 계정을 생성할 수 있음
 
-### 개인 프로필 관리
-
+### 개인 프로필 
+![프로필 페이지1](https://github.com/user-attachments/assets/5b6bcc1e-ba66-4e98-b00e-b6caefbc5115)
+![팔로우 모달창](https://github.com/user-attachments/assets/5d4e8cc8-501d-4a06-9f0c-face51b3633d)
+![회원정보수정 페이지](https://github.com/user-attachments/assets/582b1d26-dc38-4b6e-a468-711c6c7ddd30)
 - 사용자 정보 수정, 팔로우 및 좋아요 기능을 통해 사용자는 자신의 도서 리스트를 관리할 수 있음
 
 ### 알림 내역 & 나의 리뷰
 
+
+![알림 내역](https://github.com/user-attachments/assets/d33b3c55-5f68-4041-9a81-aa9b6b6d6f7c)
+
+![나의 리뷰](https://github.com/user-attachments/assets/30b31f7b-f985-4e32-9bc9-ba4f116f0848)
+
 - 다른 사용자가 나를 팔로우했을 때 알림을 통해 확인 가능함
 - 관심 있는 도서에 대해 작성한 나의 리뷰를 한곳에서 모아볼 수 있음
+
+
 
 
 
